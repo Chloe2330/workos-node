@@ -1,5 +1,12 @@
 # Changelog
 
+## [12.3.0](https://github.com/workos/workos-node/compare/v12.2.0...v12.3.0) (2026-11-12)
+
+
+### Features
+
+* **directory-sync:** Add directory-scoped user and group reads ([#1759](https://github.com/workos/workos-node/issues/1759)) ([6e536f1](https://github.com/workos/workos-node/commit/6e536f1134e91eab6b8d354ae788e6400b525f9b))
+
 ## [12.2.0](https://github.com/workos/workos-node/compare/v12.1.0...v12.2.0) (2026-11-04)
 
 
